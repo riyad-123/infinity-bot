@@ -31,7 +31,7 @@
 
 ## 🤖 About
 
-Astroz is a comprehensive Discord bot designed to enhance your server experience with a wide range of features including moderation, entertainment, economy, music, and much more. Built with Discord.js and featuring a modern dashboard, Astroz provides everything you need to manage and entertain your Discord community.
+INFINITY is a comprehensive Discord bot designed to enhance your server experience with a wide range of features including moderation, entertainment, economy, music, and much more. Built with Discord.js and featuring a modern dashboard, INFINITY provides everything you need to manage and entertain your Discord community.
 
 ### ✨ Key Highlights
 
